@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE logbarang SYSTEM "logbarang.dtd">
+<logbarang>
+<barang>
+<kode>M1112</kode>
+<satuan>pc</satuan>
+<harga>5000</harga>
+<asal>
+<ptasal>ladyrock</ptasal>
+<kodewilasal>10</kodewilasal>
+</asal>
+<tujuan>
+<pttujuan>union</pttujuan>
+<kodewiltujuan>1001</kodewiltujuan>
+</tujuan>
+</barang>
+<barang>
+<kode>M1122</kode>
+<satuan>pc</satuan>
+<harga>1000</harga>
+<asal>
+<ptasal>pbm</ptasal>
+<kodewilasal>103</kodewilasal>
+</asal>
+<tujuan>
+<pttujuan>mitra kencana</pttujuan>
+<kodewiltujuan>300</kodewiltujuan>
+</tujuan>
+</barang>
+</logbarang>
